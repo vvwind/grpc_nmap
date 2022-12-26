@@ -1,6 +1,10 @@
 ***Simple grpc nmap service***
 
-
+> ## Зависимости.
+> github.com/Ullaakut/nmap v2.0.2+incompatible
+> github.com/golang/protobuf v1.5.2
+> google.golang.org/grpc v1.51.0
+> https://github.com/vulnersCom/nmap-vulners
 
 
 **Сервер и клиент работают на localhost:9000**
