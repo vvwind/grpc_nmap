@@ -7,7 +7,9 @@
 > github.com/golang/protobuf v1.5.2
 > 
 > google.golang.org/grpc v1.51.0
+> 
 > Замена скрипта для nmap
+> 
 > https://github.com/vulnersCom/nmap-vulners
 
 
